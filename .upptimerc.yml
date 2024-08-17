@@ -18,14 +18,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime-sites
   logoUrl: https://raw.githubusercontent.com/torrentpier/torrentpier/master/styles/images/logo/logo.png
-  name: TorrentPier Sites Status
+  # name: TorrentPier Sites Status
   introTitle: Latest Updates
   introMessage: Site to announce any maintenance and the current status of TorrentPier sites
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
