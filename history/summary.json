@@ -58,19 +58,19 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 5210,
-    "timeDay": 5210,
-    "timeWeek": 5210,
-    "timeMonth": 5210,
-    "timeYear": 5210,
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
+    "time": 5443,
+    "timeDay": 5443,
+    "timeWeek": 5443,
+    "timeMonth": 5443,
+    "timeYear": 5443,
     "dailyMinutesDown": {
-      "2024-08-17": 0
+      "2024-08-17": 7
     }
   }
 ]
