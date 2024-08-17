@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /$REPO
+  baseUrl: /uptime-sites
   logoUrl: https://raw.githubusercontent.com/torrentpier/torrentpier/master/styles/images/logo/logo.png
   name: 
   introTitle: Latest Updates
