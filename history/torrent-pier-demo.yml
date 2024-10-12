@@ -1,7 +1,7 @@
 url: https://torrentpier.duckdns.org/
-status: up
-code: 200
-responseTime: 1078
-lastUpdated: 2024-10-11T23:12:19.047Z
+status: down
+code: 500
+responseTime: 7610
+lastUpdated: 2024-10-12T05:16:55.415Z
 startTime: 2024-08-17T11:00:48.169Z
 generator: Upptime <https://github.com/upptime/upptime>
