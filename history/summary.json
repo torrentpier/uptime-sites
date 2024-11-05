@@ -108,12 +108,12 @@
     "url": "https://get-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/get-torrentpier.duckdns.org.ico",
     "slug": "get-torrent-pier",
-    "status": "up",
-    "uptime": "91.14%",
-    "uptimeDay": "89.53%",
+    "status": "down",
+    "uptime": "91.19%",
+    "uptimeDay": "89.51%",
     "uptimeWeek": "92.82%",
     "uptimeMonth": "89.62%",
-    "uptimeYear": "91.14%",
+    "uptimeYear": "91.19%",
     "time": 4036,
     "timeDay": 4711,
     "timeWeek": 4685,
@@ -160,8 +160,7 @@
       "2024-09-16": 610,
       "2024-09-15": 1422,
       "2024-09-14": 383,
-      "2024-09-13": 18,
-      "2024-09-12": 59
+      "2024-09-13": 18
     }
   },
   {
