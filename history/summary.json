@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
     "status": "up",
-    "uptime": "72.06%",
+    "uptime": "72.07%",
     "uptimeDay": "99.92%",
     "uptimeWeek": "92.28%",
     "uptimeMonth": "50.45%",
-    "uptimeYear": "72.06%",
+    "uptimeYear": "72.07%",
     "time": 4224,
     "timeDay": 10014,
     "timeWeek": 5371,
@@ -108,11 +108,11 @@
     "url": "https://get-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/get-torrentpier.duckdns.org.ico",
     "slug": "get-torrent-pier",
-    "status": "up",
+    "status": "down",
     "uptime": "93.22%",
-    "uptimeDay": "80.15%",
+    "uptimeDay": "80.13%",
     "uptimeWeek": "91.48%",
-    "uptimeMonth": "89.35%",
+    "uptimeMonth": "89.39%",
     "uptimeYear": "93.22%",
     "time": 4048,
     "timeDay": 4562,
@@ -157,7 +157,7 @@
       "2024-09-22": 133,
       "2024-09-20": 310,
       "2024-09-19": 434,
-      "2024-09-17": 12
+      "2024-09-17": 5
     }
   },
   {
