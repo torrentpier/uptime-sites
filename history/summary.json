@@ -30,19 +30,19 @@
     "url": "https://torrentpier.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
-    "status": "up",
-    "uptime": "72.88%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "67.32%",
-    "uptimeYear": "72.88%",
+    "status": "down",
+    "uptime": "72.89%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "67.34%",
+    "uptimeYear": "72.89%",
     "time": 4152,
     "timeDay": 768,
     "timeWeek": 2649,
     "timeMonth": 4704,
     "timeYear": 4152,
     "dailyMinutesDown": {
-      "2024-11-21": 22,
+      "2024-11-21": 23,
       "2024-11-16": 125,
       "2024-11-15": 7,
       "2024-11-14": 876,
@@ -106,7 +106,7 @@
       "2024-09-02": 286,
       "2024-09-01": 156,
       "2024-08-30": 10,
-      "2024-08-29": 54
+      "2024-08-29": 37
     }
   },
   {
@@ -114,18 +114,19 @@
     "url": "https://get-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/get-torrentpier.duckdns.org.ico",
     "slug": "get-torrent-pier",
-    "status": "up",
-    "uptime": "94.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.46%",
+    "status": "down",
+    "uptime": "94.97%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.45%",
     "uptimeMonth": "88.59%",
-    "uptimeYear": "94.71%",
+    "uptimeYear": "94.97%",
     "time": 3860,
     "timeDay": 727,
     "timeWeek": 2868,
     "timeMonth": 3950,
     "timeYear": 3860,
     "dailyMinutesDown": {
+      "2024-11-21": 1,
       "2024-11-19": 7,
       "2024-11-16": 248,
       "2024-11-11": 46,
@@ -156,9 +157,7 @@
       "2024-10-07": 159,
       "2024-10-06": 36,
       "2024-10-05": 79,
-      "2024-10-04": 111,
-      "2024-10-03": 281,
-      "2024-10-02": 74
+      "2024-10-04": 111
     }
   },
   {
@@ -166,12 +165,12 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "up",
-    "uptime": "96.36%",
-    "uptimeDay": "96.94%",
+    "status": "down",
+    "uptime": "96.42%",
+    "uptimeDay": "96.93%",
     "uptimeWeek": "98.26%",
     "uptimeMonth": "95.63%",
-    "uptimeYear": "96.36%",
+    "uptimeYear": "96.42%",
     "time": 4024,
     "timeDay": 1131,
     "timeWeek": 2412,
@@ -226,7 +225,7 @@
       "2024-08-29": 44,
       "2024-08-28": 646,
       "2024-08-27": 15,
-      "2024-08-24": 94
+      "2024-08-24": 15
     }
   }
 ]
