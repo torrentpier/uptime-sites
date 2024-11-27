@@ -30,10 +30,10 @@
     "url": "https://torrentpier.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "74.73%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.20%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "83.32%",
     "uptimeYear": "74.73%",
     "time": 4108,
@@ -42,7 +42,7 @@
     "timeMonth": 4384,
     "timeYear": 4108,
     "dailyMinutesDown": {
-      "2024-11-27": 30,
+      "2024-11-27": 31,
       "2024-11-21": 52,
       "2024-11-16": 125,
       "2024-11-15": 7,
@@ -104,7 +104,7 @@
       "2024-09-05": 78,
       "2024-09-04": 255,
       "2024-09-03": 24,
-      "2024-09-02": 63
+      "2024-09-02": 56
     }
   },
   {
@@ -112,18 +112,19 @@
     "url": "https://get-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/get-torrentpier.duckdns.org.ico",
     "slug": "get-torrent-pier",
-    "status": "up",
-    "uptime": "96.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.26%",
+    "status": "down",
+    "uptime": "96.20%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "94.25%",
     "uptimeMonth": "91.90%",
-    "uptimeYear": "96.06%",
+    "uptimeYear": "96.20%",
     "time": 3713,
     "timeDay": 587,
     "timeWeek": 1793,
     "timeMonth": 3360,
     "timeYear": 3713,
     "dailyMinutesDown": {
+      "2024-11-27": 1,
       "2024-11-24": 324,
       "2024-11-23": 126,
       "2024-11-22": 97,
@@ -147,8 +148,7 @@
       "2024-10-24": 255,
       "2024-10-23": 943,
       "2024-10-22": 195,
-      "2024-10-19": 19,
-      "2024-10-18": 215
+      "2024-10-19": 19
     }
   },
   {
@@ -156,12 +156,12 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "up",
-    "uptime": "97.06%",
-    "uptimeDay": "98.71%",
+    "status": "down",
+    "uptime": "97.08%",
+    "uptimeDay": "98.70%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "96.16%",
-    "uptimeYear": "97.06%",
+    "uptimeYear": "97.08%",
     "time": 3947,
     "timeDay": 3253,
     "timeWeek": 2325,
@@ -214,8 +214,7 @@
       "2024-09-03": 24,
       "2024-09-02": 296,
       "2024-09-01": 155,
-      "2024-08-30": 9,
-      "2024-08-29": 29
+      "2024-08-30": 9
     }
   }
 ]
