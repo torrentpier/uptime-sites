@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.com.ico",
     "slug": "torrent-pier",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "99.09%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "95.87%",
+    "uptimeYear": "95.88%",
     "time": 764,
     "timeDay": 686,
     "timeWeek": 744,
@@ -31,19 +31,19 @@
     "url": "https://torrentpier.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
-    "status": "up",
-    "uptime": "75.80%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "98.74%",
+    "status": "down",
+    "uptime": "75.92%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "83.65%",
-    "uptimeYear": "75.80%",
+    "uptimeYear": "75.92%",
     "time": 3974,
     "timeDay": 875,
     "timeWeek": 2195,
     "timeMonth": 3980,
     "timeYear": 3974,
     "dailyMinutesDown": {
-      "2024-12-02": 56,
+      "2024-12-02": 57,
       "2024-11-27": 71,
       "2024-11-21": 52,
       "2024-11-16": 125,
@@ -104,7 +104,7 @@
       "2024-09-10": 33,
       "2024-09-08": 109,
       "2024-09-05": 78,
-      "2024-09-04": 248
+      "2024-09-04": 91
     }
   },
   {
@@ -155,12 +155,12 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "97.97%",
+    "status": "down",
+    "uptime": "97.46%",
+    "uptimeDay": "97.95%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "97.45%",
+    "uptimeYear": "97.46%",
     "time": 3903,
     "timeDay": 3831,
     "timeWeek": 2882,
@@ -211,8 +211,7 @@
       "2024-09-08": 106,
       "2024-09-05": 54,
       "2024-09-04": 253,
-      "2024-09-03": 24,
-      "2024-09-02": 21
+      "2024-09-03": 24
     }
   }
 ]
