@@ -31,10 +31,10 @@
     "url": "https://torrentpier.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "75.80%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "98.81%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "83.67%",
     "uptimeYear": "75.80%",
     "time": 3988,
@@ -43,7 +43,7 @@
     "timeMonth": 4027,
     "timeYear": 3988,
     "dailyMinutesDown": {
-      "2024-12-02": 49,
+      "2024-12-02": 50,
       "2024-11-27": 71,
       "2024-11-21": 52,
       "2024-11-16": 125,
@@ -104,7 +104,7 @@
       "2024-09-10": 33,
       "2024-09-08": 109,
       "2024-09-05": 78,
-      "2024-09-04": 255
+      "2024-09-04": 248
     }
   },
   {
@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/get-torrentpier.duckdns.org.ico",
     "slug": "get-torrent-pier",
     "status": "down",
-    "uptime": "96.66%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "96.66%",
+    "uptime": "96.65%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "92.00%",
+    "uptimeYear": "96.65%",
     "time": 3686,
     "timeDay": 841,
     "timeWeek": 2458,
     "timeMonth": 3370,
     "timeYear": 3686,
     "dailyMinutesDown": {
-      "2024-12-02": 49,
+      "2024-12-02": 56,
       "2024-11-27": 34,
       "2024-11-24": 324,
       "2024-11-23": 126,
@@ -155,18 +155,19 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "96.45%",
-    "uptimeYear": "97.45%",
+    "uptimeYear": "97.47%",
     "time": 3891,
     "timeDay": 1197,
     "timeWeek": 2584,
     "timeMonth": 3366,
     "timeYear": 3891,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-11-27": 58,
       "2024-11-24": 5,
       "2024-11-21": 77,
@@ -211,7 +212,7 @@
       "2024-09-05": 54,
       "2024-09-04": 253,
       "2024-09-03": 24,
-      "2024-09-02": 45
+      "2024-09-02": 21
     }
   }
 ]
